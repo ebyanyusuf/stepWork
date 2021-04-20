@@ -1,0 +1,2 @@
+class Oxford < ApplicationRecord
+end
